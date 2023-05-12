@@ -33,6 +33,7 @@ where arr is the array to be sorted, low is the starting index of the array, and
 
 For example, to sort an array arr of size n, you can use the following code:
 
+[HW3_Quick_sort.c](HW3_Quick_sort.c)
 ```c
 #include <stdio.h>
 
