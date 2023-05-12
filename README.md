@@ -56,3 +56,9 @@ The quicksort algorithm is a divide-and-conquer algorithm that works by selectin
 The partition function selects the last element of the array as the pivot and rearranges the elements of the array such that all the elements smaller than the pivot are to the left of it and all the elements greater than the pivot are to the right of it. It then returns the index of the pivot.
 
 The quick_sort function uses the partition function to find the index of the pivot and recursively calls itself with the left and right subarrays until the subarrays have only one element or are empty.
+
+## Result
+
+```
+Sorted array: 3 8 13 25 33 41 54 67 84 119
+```
